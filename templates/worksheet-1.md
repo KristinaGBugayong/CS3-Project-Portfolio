@@ -74,8 +74,7 @@
 
 ### 1. What would your proposed system do?
 
-> *The proposal system acts as a replacement for the lengthy, traditional process of lab item replacement. The students fill out online forms to submit a report about the broken item, which can be directly sent to the teacher and registrar. When the report is approved by the higher authorities, then instructions can be sent to students detailing instructions on how to replace the item.
-*
+> *The proposal system acts as a replacement for the lengthy, traditional process of lab item replacement. The students fill out online forms to submit a report about the broken item, which can be directly sent to the teacher and registrar. When the report is approved by the higher authorities, then instructions can be sent to students detailing instructions on how to replace the item.*
 
 <br>
 
