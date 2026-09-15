@@ -91,6 +91,6 @@
 
 | Feature | Purpose |
 | ------- | ------- |
-| 1.      |         |
-| 2.      |         |
-| 3.      |         |
+| 1.  Online Incident & Replacement Reporting    |  Allows students to fill out digital forms to submit reports on damaged or lost laboratory apparatus directly to faculty and staff       |
+| 2.   Multi-Role Digital Approval Workflow   | Enables supervising teachers and the lab registrar to review, sign, and approve replacement requests electronical.       |
+| 3.  Automated Notification & Instruction Dispatch    |  Sends automated status updates and specific item replacement instructions to the student once approved.       |
